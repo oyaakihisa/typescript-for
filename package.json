@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/oyaakihisa/typescript-for/issues"
   },
-  "homepage": "https://github.com/oyaakihisa/typescript-for#readme"
+  "homepage": "https://github.com/oyaakihisa/typescript-for#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
